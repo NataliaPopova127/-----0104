@@ -1,0 +1,10 @@
+D:\Практические мдк 01.04\Tailoring\TailoringServer\bin\Debug\TailoringServer.exe.config
+D:\Практические мдк 01.04\Tailoring\TailoringServer\bin\Debug\TailoringServer.exe
+D:\Практические мдк 01.04\Tailoring\TailoringServer\bin\Debug\TailoringServer.pdb
+D:\Практические мдк 01.04\Tailoring\TailoringServer\bin\Debug\TailoringLibrary.dll
+D:\Практические мдк 01.04\Tailoring\TailoringServer\bin\Debug\TailoringLibrary.pdb
+D:\Практические мдк 01.04\Tailoring\TailoringServer\obj\Debug\TailoringServer.csproj.AssemblyReference.cache
+D:\Практические мдк 01.04\Tailoring\TailoringServer\obj\Debug\TailoringServer.csproj.CoreCompileInputs.cache
+D:\Практические мдк 01.04\Tailoring\TailoringServer\obj\Debug\TailoringServer.csproj.CopyComplete
+D:\Практические мдк 01.04\Tailoring\TailoringServer\obj\Debug\TailoringServer.exe
+D:\Практические мдк 01.04\Tailoring\TailoringServer\obj\Debug\TailoringServer.pdb
