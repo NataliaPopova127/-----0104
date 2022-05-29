@@ -1,26 +1,33 @@
 # Заказы на шитье изделий
 Приложение получает и обрабытывает заказ на пошив выбранной модели по выбранной ткани
 ## Начало работы
+
+Для начала работы с приложением необходимо запустить выполняющий файл Tailoring\TailoringServer\bin\Debug\TailoringServer.exe
+
+Затем запустить файл Tailoring\Tailoring\bin\Debug\Tailoring.exe
+
+![image](https://user-images.githubusercontent.com/98958813/170826582-d7c2ef45-5493-4ede-8040-0cb7823f9ba9.png)
+
+### Необходимые условия
+
+Для корректной работы приложения необходимо удостовериться что в одной директории с выполняемым TailoringServer.exe файлом находятся следующие файлы:
+    - TailoringLibrary.dll 
+    - Tailoring.exe.exe.config
+    - Tailoring.pdb
+    - TailoringLibrary.pdb
+    
+И в одной директории с выполняемым TailoringServer.exe файлом находятся следующие файлы
+    - TailoringLibrary.dll 
+    - TailoringServer.exe.exe.config
+    - TailoringServer.pdb
+    - TailoringLibrary.pdb
+
 ### Установка
 
-Запустить сначала файл Tailoring\TailoringServer\bin\Debug\TailoringServer.exe
+Для установки приложения на компьютер нужно склонировать репозиторий.
 
-. Затем запустить файл Tailoring\Tailoring\bin\Debug\Tailoring.exe
-![image](https://user-images.githubusercontent.com/98958813/170826582-d7c2ef45-5493-4ede-8040-0cb7823f9ba9.png)
-Введите коды и ФИО 
-```
-301 101 201 фамилия имя отчество
-```
-![image](https://user-images.githubusercontent.com/98958813/170826902-15761911-0b53-4cbc-b415-3e2a24110c3c.png)
 
-Сервер получает данные, введенные пользователем и сохраняет их в файле по пути Tailoring\TailoringServer\bin\Debug\ .
-В файле фиксируется начало и конец работы сервера, а также данные от клиента
+## Авторы
 
-```
-Время начала работы сервера: 28.5.2022 17-7-7
+Попова Н.М.
 
-{фамилия,имя,отчество},{301,101,201},{3700},{28.5.2022}
-
-Время окончания работы сервера: 28.5.2022 17-10-4
-
-```
